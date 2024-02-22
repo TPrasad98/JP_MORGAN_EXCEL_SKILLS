@@ -20,7 +20,7 @@ This repository contains the following materials:
 ## Links
 
 ### PNG Files
-- [Chart1.png](link_to_chart1.png): Description of Chart 1.
+- ![task 1.png](https://github.com/TPrasad98/JP_MORGAN_EXCEL_SKILLS/blob/main/TASK_2/TASK2.png)
 - [Dashboard1.png](link_to_dashboard1.png): Description of Dashboard 1.
 - [Dashboard2.png](link_to_dashboard2.png): Description of Dashboard 2.
 
