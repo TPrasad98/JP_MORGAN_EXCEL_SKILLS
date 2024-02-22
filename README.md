@@ -26,7 +26,7 @@ This repository contains the following materials:
 
 
 ### LinkedIn Profile
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for more details on my professional background and achievements.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tarini-prasad-das/) for more details on my professional background and achievements.
 
 ## Contact Information
 
