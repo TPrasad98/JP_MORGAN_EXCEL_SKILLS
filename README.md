@@ -22,7 +22,7 @@ This repository contains the following materials:
 ### task 2 
 - ![task 1.png](https://github.com/TPrasad98/JP_MORGAN_EXCEL_SKILLS/blob/main/TASK_2/TASK2.png)
 ### task 4 
-- [Dashboard1.png](https://github.com/TPrasad98/JP_MORGAN_EXCEL_SKILLS/blob/main/TASK_4/Screenshot%202024-02-22%20011158.png)
+- ![Dashboard1.png](https://github.com/TPrasad98/JP_MORGAN_EXCEL_SKILLS/blob/main/TASK_4/Screenshot%202024-02-22%20011158.png)
 ### task 4  
 - [Dashboard2.png](link_to_dashboard2.png)
 
