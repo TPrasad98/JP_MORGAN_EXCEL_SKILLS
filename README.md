@@ -19,10 +19,12 @@ This repository contains the following materials:
 
 ## Links
 
-### PNG Files
+### task 2 
 - ![task 1.png](https://github.com/TPrasad98/JP_MORGAN_EXCEL_SKILLS/blob/main/TASK_2/TASK2.png)
-- [Dashboard1.png](link_to_dashboard1.png): Description of Dashboard 1.
-- [Dashboard2.png](link_to_dashboard2.png): Description of Dashboard 2.
+### task 4 
+- [Dashboard1.png](link_to_dashboard1.png)
+### task 4  
+- [Dashboard2.png](link_to_dashboard2.png)
 
 ### LinkedIn Profile
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for more details on my professional background and achievements.
