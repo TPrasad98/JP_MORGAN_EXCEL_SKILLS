@@ -29,6 +29,6 @@ This repository contains the following materials:
 
 ## Contact Information
 
-For any inquiries or further information, feel free to reach out via email: [your@email.com](dastariniprasad7@gmail.com).
+For any inquiries or further information, feel free to reach out via email: [dastariniprasad7@gmail.com].
 
 Thank you for visiting my repository!
